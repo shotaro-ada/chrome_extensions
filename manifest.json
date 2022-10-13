@@ -1,5 +1,5 @@
 {
-    "name": "unko",
+    "name": "moodle_extensions",
     "version": "1.0.0",
     "manifest_version": 2,
     "action": {
