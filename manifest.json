@@ -1,0 +1,16 @@
+{
+    "name": "unko",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "Sample Chrome Extension",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://ict-t.el.kyutech.ac.jp/my/"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
