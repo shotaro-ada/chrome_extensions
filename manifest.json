@@ -2,6 +2,11 @@
     "name": "unko",
     "version": "1.0.0",
     "manifest_version": 2,
+    "action": {
+        "default_icon": {
+            "32": "images/proken_icon.png"
+        }
+    },
     "description": "Sample Chrome Extension",
     "content_scripts": [
         {
