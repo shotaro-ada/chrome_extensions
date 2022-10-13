@@ -4,6 +4,8 @@
     "manifest_version": 2,
     "action": {
         "default_icon": {
+            "16": "images/proken_icon16.png",
+            "24": "images/proken_icon24.png",
             "32": "images/proken_icon.png"
         }
     },
