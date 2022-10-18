@@ -13,7 +13,7 @@
     "content_scripts": [
         {
             "matches": [
-                "https://ict-t.el.kyutech.ac.jp/my/"
+                "https://ict-t.el.kyutech.ac.jp/*"
             ],
             "js": [
                 "content.js"
